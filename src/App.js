@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div>
       <h1>Hello Stack200!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <p>See if I should commit</p>
     </div>
   );
 }
